@@ -60,3 +60,7 @@ function temizle() {
     document.getElementById("p1").innerHTML = bilgiSatiri;
     document.getElementById("button2").disabled = true;
 }
+
+
+
+
